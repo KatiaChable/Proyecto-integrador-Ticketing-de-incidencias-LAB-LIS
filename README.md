@@ -65,8 +65,6 @@ src/
 
 ## Ejecución del Proyecto
 
-Usar el menú principal
-
 GESTIÓN DE INCIDENCIAS
 -------------------------
 1. Registrar Nueva Incidencia
@@ -81,11 +79,17 @@ GESTIÓN DE INCIDENCIAS
 En el word se incluyen capturas de pantalla donde se evidencia el cumplimiento de cada Historia de Usuario, incluyendo:
 
 HU - 01 Registrar incidencia
+
 HU - 02 Asignar técnico
+
 HU - 03 Actualizar estado
+
 HU - 04 Filtrar incidencias
+
 HU - 05 Reporte de incidencias
+
 HU - 06 Reporte de carga de trabajo por técnico
+
 Cada captura está asociada a su HU correspondiente.
 
 ## Notas finales
