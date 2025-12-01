@@ -64,8 +64,10 @@ src/
 └── Enums.java
 
 ## Ejecución del Proyecto
+
 Usar el menú principal
-⚙️ GESTIÓN DE INCIDENCIAS
+
+GESTIÓN DE INCIDENCIAS
 -------------------------
 1. Registrar Nueva Incidencia
 2. Asignar Técnico a Incidencia
